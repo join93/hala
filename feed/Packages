@@ -15,51 +15,18 @@ OE: enigma2
 License: proprietary
 
 
-Package: enigma2-plugin-systemplugins-.multiquickbutton-vu
-Version: ersion
+Package: enigma2-plugin-systemplugins-.ts-sateditor
+Version: eliesat
+Recommends: curl
 Section: extra
 Architecture: all
-MD5Sum: ea63c414bddc333db4d808b48fd855b4
-Size: 31170
-Filename: enigma2-plugin-systemplugins-.multiquickbutton-vu_ersion_all.ipk
-Description: enigma2-plugin-extensions-multiquickbutton-vu
-Maintainer: emanuel | changes for Vu+ by <info@vuplus-support.org>
-Priority: optional
-Source: file://enigma2-plugin-extensions-multiquickbutton-vu/* file://LICENSE.GPLv2
-Homepage: http://www.vuplus-support.org, https://www.tunisia-sat.com/forums/Enigma2/
-OE: enigma2-plugin-extensions-multiquickbutton-vu
-License: GPLv2
-
-
-Package: enigma2-plugin-systemplugins-.multiquickbutton
-Version: eliesat
-Section: base
-Architecture: all
-MD5Sum: 9d53e6dd338a6c27e6c2e8a04bfb75dd
-Size: 30952
-Filename: enigma2-plugin-systemplugins-.multiquickbutton_eliesat_all.ipk
-Description: rc button settings
+MD5Sum: 3aee445dfcd9edee690a1f336bb2457a
+Size: 24476
+Filename: enigma2-plugin-systemplugins-.ts-sateditor_eliesat_all.ipk
+Description: manage satellites/transponders for user satellites.xml
 Maintainer: eliesat
 Priority: optional
-Source: none
-Homepage: lebanonsat.blogspot.com
-OE: enigma2
-License: proprietary
-
-
-Package: enigma2-plugin-systemplugins-1-settings
-Version: eliesat
-Section: base
-Architecture: all
-MD5Sum: d31bda2b844d22bc263b28699e9a500a
-Size: 1838
-Filename: enigma2-plugin-systemplugins-1-settings_eliesat_all.ipk
-Description: system plugins
-Maintainer: eliesat developer
-Priority: optional
-Source: none
-Homepage: lebanonsat.blogspot.com
-OE: enigma2
-License: Proprietary
+Source: 
+Homepage: 
 
 
