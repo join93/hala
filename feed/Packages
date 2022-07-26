@@ -30,3 +30,20 @@ Source:
 Homepage: 
 
 
+Package: enigma2-plugin-systemplugins-.weathercomponenthandler
+Version: eliesat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4fbf004dbc2bb43ae911ef5ce32f561f
+Size: 2468
+Filename: enigma2-plugin-systemplugins-.weathercomponenthandler_eliesat_all.ipk
+Description: WeatherComponentHandler
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
