@@ -1,0 +1,17 @@
+Package: enigma2-plugin-systemplugins-.autoresolution
+Version: eliesat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 8a6fb01c1832593bb82f59ad3fc69e00
+Size: 15992
+Filename: enigma2-plugin-systemplugins-.autoresolution_eliesat_all.ipk
+Description: hdmi settings
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: proprietary
+
+
