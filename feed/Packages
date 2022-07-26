@@ -15,6 +15,22 @@ OE: enigma2
 License: proprietary
 
 
+Package: enigma2-plugin-systemplugins-.multiquickbutton-vu
+Version: ersion
+Section: extra
+Architecture: all
+MD5Sum: ea63c414bddc333db4d808b48fd855b4
+Size: 31170
+Filename: enigma2-plugin-systemplugins-.multiquickbutton-vu_ersion_all.ipk
+Description: enigma2-plugin-extensions-multiquickbutton-vu
+Maintainer: emanuel | changes for Vu+ by <info@vuplus-support.org>
+Priority: optional
+Source: file://enigma2-plugin-extensions-multiquickbutton-vu/* file://LICENSE.GPLv2
+Homepage: http://www.vuplus-support.org, https://www.tunisia-sat.com/forums/Enigma2/
+OE: enigma2-plugin-extensions-multiquickbutton-vu
+License: GPLv2
+
+
 Package: enigma2-plugin-systemplugins-.multiquickbutton
 Version: eliesat
 Section: base
