@@ -47,3 +47,19 @@ OE: enigma2
 License: proprietary
 
 
+Package: enigma2-plugin-systemplugins-1-settings
+Version: eliesat
+Section: base
+Architecture: all
+MD5Sum: d31bda2b844d22bc263b28699e9a500a
+Size: 1838
+Filename: enigma2-plugin-systemplugins-1-settings_eliesat_all.ipk
+Description: system plugins
+Maintainer: eliesat developer
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: Proprietary
+
+
