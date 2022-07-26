@@ -1,0 +1,19 @@
+Version 1.0
+
+You need to install JRE (Java Runtime Environment) !
+
+Download it from http://www.filehippo.com/download_jre/ (Windows)
+
+Recommended JRE version : 8.0 build 102
+
+Place your IPK files here then run IPKFeedGenerator.jar
+
+It will create Packages and Packages.gz for you
+
+==================================================
+
+As you know you can run a jar file in any operating system (Windows, Linux, macOS, ...) because it's Java
+
+I did compile it with Java 8u102/NetBeans 8.1 so you need JRE 1.8.x
+
+Enjoy creating IPK feeds
