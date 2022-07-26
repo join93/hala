@@ -30,6 +30,22 @@ OE: enigma2
 License: Proprietary
 
 
+Package: enigma2-plugin-systemplugins-1-permanentclock
+Version: eliesat
+Section: base
+Architecture: all
+MD5Sum: c0f90ca92bf7eca848e150397ed160ef
+Size: 1590
+Filename: enigma2-plugin-systemplugins-1-permanentclock_eliesat_all.ipk
+Description: clock display
+Maintainer: eliesat developer
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: Proprietary
+
+
 Package: enigma2-plugin-systemplugins-21-autoresolution
 Version: eliesat
 Section: base
