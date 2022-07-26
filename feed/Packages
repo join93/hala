@@ -1,0 +1,32 @@
+Package: enigma2-plugin-sytemplugins-1-autoresolution
+Version: eliesat
+Section: base
+Architecture: all
+MD5Sum: db1bc7facfa0c578730f4ed09423ffa2
+Size: 1582
+Filename: enigma2-plugin-sytemplugins-1-autoresolution_eliesat_all.ipk
+Description: autoresolution
+Maintainer: eliesat developer
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: Proprietary
+
+
+Package: enigma2-plugin-sytemplugins-1-multiquickbutton
+Version: eliesat
+Section: base
+Architecture: all
+MD5Sum: 9df3c171756f364b8898b67b9c5cff80
+Size: 1610
+Filename: enigma2-plugin-sytemplugins-1-multiquickbutton_eliesat_all.ipk
+Description: rc settings
+Maintainer: eliesat developer
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: Proprietary
+
+
