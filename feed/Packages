@@ -15,3 +15,19 @@ OE: enigma2
 License: proprietary
 
 
+Package: enigma2-plugin-systemplugins-.multiquickbutton
+Version: eliesat
+Section: base
+Architecture: all
+MD5Sum: 9d53e6dd338a6c27e6c2e8a04bfb75dd
+Size: 30952
+Filename: enigma2-plugin-systemplugins-.multiquickbutton_eliesat_all.ipk
+Description: rc button settings
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: lebanonsat.blogspot.com
+OE: enigma2
+License: proprietary
+
+
