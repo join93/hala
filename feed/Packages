@@ -1,0 +1,50 @@
+Package: enigma2-plugin-skins-.metrix-confluence
+Version: v1.0
+Section: base
+Architecture: all
+MD5Sum: b29efd6354b042680707600597f3d986
+Size: 1906
+Filename: enigma2-plugin-skins-.metrix-confluence_v1.0_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.multiposter-fhd
+Version: v1.1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: d6005362cdd83372566f68583d5f9e6f
+Size: 1878
+Filename: enigma2-plugin-skins-.multiposter-fhd_v1.1_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.novaler-blue
+Version: v3.1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7a8ec2babc53e4b558a3f0eae15ea673
+Size: 1804
+Filename: enigma2-plugin-skins-.novaler-blue_v3.1_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
