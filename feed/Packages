@@ -32,6 +32,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.multiposter
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: f29933863004aad0364f51f498cca394
+Size: 1574212
+Filename: enigma2-plugin-skins-.multiposter_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.pdreamy
 Version: eliesat
 Depends: enigma2
