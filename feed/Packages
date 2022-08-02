@@ -100,6 +100,40 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.beta-pro
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: cf4d87c3a59a49d108e84112acd41ec9
+Size: 6241966
+Filename: enigma2-plugin-skins-.beta-pro_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.championsleague
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: acd3eb31f40fb0eacd117e8d7ed9cad0
+Size: 9785392
+Filename: enigma2-plugin-skins-.championsleague_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.multiposter
 Version: eliesat
 Depends: enigma2
