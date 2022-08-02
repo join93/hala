@@ -168,6 +168,40 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.iconet1
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 5fcb82997f7fc028759893be695a0653
+Size: 3335278
+Filename: enigma2-plugin-skins-.iconet1_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.iconet2
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: aac0f343bd7b43ca294eb99c3049c378
+Size: 3345082
+Filename: enigma2-plugin-skins-.iconet2_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.multiposter
 Version: eliesat
 Depends: enigma2
