@@ -20,8 +20,8 @@ Version: eliesat
 Depends: enigma2
 Section: skins
 Architecture: all
-MD5Sum: d19b4abeb828c63842fd9652f635970f
-Size: 13399902
+MD5Sum: 0d4d215ea2f5d176fe2397a466891eec
+Size: 13399900
 Filename: enigma2-plugin-skins-.batman2_eliesat_all.ipk
 Description: poster x
 Maintainer: eliesat
@@ -125,6 +125,40 @@ Architecture: all
 MD5Sum: acd3eb31f40fb0eacd117e8d7ed9cad0
 Size: 9785392
 Filename: enigma2-plugin-skins-.championsleague_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.icone1
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 45b626c79fef57c3c40fc56196d08d13
+Size: 3335396
+Filename: enigma2-plugin-skins-.icone1_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.icone2
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 3c055a9093e49c2023b2fb8ea364f9f3
+Size: 3345126
+Filename: enigma2-plugin-skins-.icone2_eliesat_all.ipk
 Description: poster x
 Maintainer: eliesat
 Priority: optional
