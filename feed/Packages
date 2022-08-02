@@ -219,6 +219,40 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.novaler-blue
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 37b6fca8716d6c451c9055e3ddd8523a
+Size: 11249140
+Filename: enigma2-plugin-skins-.novaler-blue_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.novaler-green
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: d9d823fc81366bceedd6063537f5e367
+Size: 10828022
+Filename: enigma2-plugin-skins-.novaler-green_eliesat_all.ipk
+Description: poster x
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.pdreamy
 Version: eliesat
 Depends: enigma2
