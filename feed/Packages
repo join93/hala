@@ -253,6 +253,57 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.novaler-infrared-v3.2
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 062cb808766de5176bcb462fb2b4e5ad
+Size: 11287512
+Filename: enigma2-plugin-skins-.novaler-infrared-v3.2_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.orangesky-vpx1
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 94446bc00377d9898714c096085b502c
+Size: 5062942
+Filename: enigma2-plugin-skins-.orangesky-vpx1_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.orangesky-vpx2
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 47cebc5ad0331c8eb035e45502796ae2
+Size: 5069584
+Filename: enigma2-plugin-skins-.orangesky-vpx2_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.pdreamy
 Version: eliesat
 Depends: enigma2
