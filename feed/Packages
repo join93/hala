@@ -236,6 +236,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-.novaler-green-3.2
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: f75e664e2468f0341433a7f51ef360ea
+Size: 8377728
+Filename: enigma2-plugin-skins-.novaler-green-3.2_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-.novaler-green
 Version: eliesat
 Depends: enigma2
@@ -261,6 +278,23 @@ Architecture: all
 MD5Sum: 196128b3b61099fcdb7ae6e2bc1afb31
 Size: 11288396
 Filename: enigma2-plugin-skins-.novaler-infrared-v3.2_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-.novaler-infrared-v3.3
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 584ca8219997f536677e92686e2c6aa2
+Size: 11288286
+Filename: enigma2-plugin-skins-.novaler-infrared-v3.3_eliesat_all.ipk
 Description: poster x by mnasr
 Maintainer: eliesat
 Priority: optional
