@@ -258,8 +258,8 @@ Version: eliesat
 Depends: enigma2
 Section: skins
 Architecture: all
-MD5Sum: 062cb808766de5176bcb462fb2b4e5ad
-Size: 11287512
+MD5Sum: 196128b3b61099fcdb7ae6e2bc1afb31
+Size: 11288396
 Filename: enigma2-plugin-skins-.novaler-infrared-v3.2_eliesat_all.ipk
 Description: poster x by mnasr
 Maintainer: eliesat
